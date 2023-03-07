@@ -3,7 +3,7 @@ var gridArray = [];
 
 function reset() {
     position = 1;
-    grid.innerHTML = "";
+     grid.innerHTML = "";
     gridArray = [];
 };
 
